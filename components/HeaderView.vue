@@ -6,7 +6,7 @@
           <div class="flex lg:flex-1">
             <a href="#" class="-m-1.5 p-1.5">
               <span class="sr-only">添加物スキャナー</span>
-              <img class="h-8 w-auto" src="https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=600" alt="" />
+              <img class="h-8 w-auto rounded" src="https://firebasestorage.googleapis.com/v0/b/food-additive-7acb1.appspot.com/o/public%2FAppIcon_1024.png?alt=media&token=da4032c6-6110-487d-85a3-392629af1678" alt="" />
             </a>
           </div>
           <div class="flex lg:hidden">
@@ -28,7 +28,7 @@
             <div class="flex items-center justify-between">
               <a href="#" class="-m-1.5 p-1.5">
                 <span class="sr-only">添加物スキャナー</span>
-                <img class="h-8 w-auto" src="https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=600" alt="" />
+                <img class="h-8 w-auto rounded" src="https://firebasestorage.googleapis.com/v0/b/food-additive-7acb1.appspot.com/o/public%2FAppIcon_1024.png?alt=media&token=da4032c6-6110-487d-85a3-392629af1678" alt="" />
               </a>
               <button type="button" class="-m-2.5 rounded-md p-2.5 text-gray-700" @click="mobileMenuOpen = false">
                 <span class="sr-only">Close menu</span>
