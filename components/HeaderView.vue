@@ -57,7 +57,8 @@
   import { Bars3Icon, XMarkIcon } from '@heroicons/vue/24/outline'
 
   const navigation = [
-    { name: '添加物スキャナー', href: '#' }
+    { name: '添加物スキャナー', href: '/' },
+    { name: 'プライバシー', href: '/privacy' }
   ]
 
   const mobileMenuOpen = ref(false)
