@@ -1,6 +1,24 @@
 # Nuxt 3 Minimal Starter
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+
+## 技術構成
+
+* Vue3
+* Firebase
+
+## 機能
+
+
+| マーク | ステータス |
+|---|---|
+| ✅ | 対応済み |
+| 🚧 | 今後対応予定 |
+
+
+| ステータス | 項目 |
+|---|---|
+| ✅ | GitHub Actions による自動デプロイ |
+
 
 ## Setup
 
