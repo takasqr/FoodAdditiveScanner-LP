@@ -20,6 +20,10 @@
     <main>
       <!-- Hero section -->
       <HeroSection />
+
+      <Screenshot />
+
+      <FAQ />
     </main>
     <FooterView />
   </div>
@@ -27,6 +31,7 @@
 
 <script setup>
 import { ref } from 'vue'
+import Screenshot from '~/components/Screenshot.vue';
 
 const mobileMenuOpen = ref(false)
 </script>
