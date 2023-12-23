@@ -4,7 +4,7 @@
       <header class="absolute inset-x-0 top-0 z-50">
         <nav class="flex items-center justify-between p-6 lg:px-8" aria-label="Global">
           <div class="flex lg:flex-1">
-            <a href="#" class="-m-1.5 p-1.5">
+            <a href="/" class="-m-1.5 p-1.5">
               <span class="sr-only">添加物スキャナー</span>
               <img class="h-8 w-auto rounded" src="https://firebasestorage.googleapis.com/v0/b/food-additive-7acb1.appspot.com/o/public%2FAppIcon_1024.png?alt=media&token=da4032c6-6110-487d-85a3-392629af1678" alt="" />
             </a>
