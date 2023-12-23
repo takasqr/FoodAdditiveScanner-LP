@@ -11,6 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+      - run: echo ${{ vars.GTM_ID }}
       - run: npm ci && npm run generate
       - uses: FirebaseExtended/action-hosting-deploy@v0
         with:
