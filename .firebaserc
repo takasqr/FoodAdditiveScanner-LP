@@ -1,5 +1,15 @@
 {
   "projects": {
     "default": "food-additive-7acb1"
-  }
+  },
+  "targets": {
+    "food-additive-7acb1": {
+      "hosting": {
+        "foodadditive-app": [
+          "foodadditive-app"
+        ]
+      }
+    }
+  },
+  "etags": {}
 }
