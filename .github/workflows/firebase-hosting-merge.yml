@@ -12,7 +12,6 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - run: echo GTM_ID=${{ vars.GTM_ID }} > .env
-      - run: export GTM_ID=${{ vars.GTM_ID }}
       - run: npm ci && npm run generate
       - uses: FirebaseExtended/action-hosting-deploy@v0
         with:

@@ -15,9 +15,10 @@
 | 🚧 | 今後対応予定 |
 
 
-| ステータス | 項目 |
-|---|---|
-| ✅ | GitHub Actions による自動デプロイ |
+| ステータス | 項目 | 参考 URL |
+|---|---|---|
+| ✅ | GitHub Actions による自動デプロイ | |
+| ✅ | GTM によるタグ配信 | [.env \| Nuxt](https://nuxt.com/docs/guide/directory-structure/env) [Variables \| GitHub Docs](https://docs.github.com/en/actions/learn-github-actions/variables) |
 
 
 ## Setup
