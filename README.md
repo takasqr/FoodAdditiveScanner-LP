@@ -95,3 +95,16 @@ bun run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
+
+## ソースコード
+
+- [FoodAdditiveScanner-LP](https://github.com/takasqr/FoodAdditiveScanner-LP)
+- [FoodAdditiveScanner-iOS
+](https://github.com/takasqr/FoodAdditiveScanner-iOS)
+- [FoodAdditiveScanner-Android
+](https://github.com/takasqr/FoodAdditiveScanner-Android)
+- [FoodAdditiveScanner-WebApp
+](https://github.com/takasqr/FoodAdditiveScanner-WebApp)
+- [FoodAdditiveScanner-WebAPI
+](https://github.com/takasqr/FoodAdditiveScanner-WebAPI)
