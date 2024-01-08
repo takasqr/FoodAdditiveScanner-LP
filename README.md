@@ -6,7 +6,7 @@
 
 ## 技術構成
 
-* Vue3
+* Nuxt3
 * Firebase
 
 ## 機能
