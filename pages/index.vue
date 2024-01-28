@@ -25,13 +25,14 @@
 
       <FAQ />
     </main>
-    <FooterView />
+    <Footer />
   </div>
 </template>
 
 <script setup>
 import { ref } from 'vue'
 import Screenshot from '~/components/Screenshot.vue';
+import Footer from '@takasqr/tw-vue-ui/template/Footer/Footer.vue'
 
 const mobileMenuOpen = ref(false)
 </script>

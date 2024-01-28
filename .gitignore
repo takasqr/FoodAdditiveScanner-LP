@@ -25,3 +25,6 @@ logs
 
 
 *.cache
+
+# GitHub Packages
+.npmrc
