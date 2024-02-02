@@ -32,7 +32,7 @@
 <script setup>
 import { ref } from 'vue'
 import Screenshot from '~/components/Screenshot.vue';
-import Footer from '@takasqr/tw-vue-ui/template/Footer/Footer.vue'
+import Footer from '@takasqr/tw-vue-ui/custom/general/CustomFooter.vue'
 
 const mobileMenuOpen = ref(false)
 </script>

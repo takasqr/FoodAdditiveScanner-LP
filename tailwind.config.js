@@ -7,6 +7,7 @@ export default {
     "./plugins/**/*.{js,ts}",
     "./app.vue",
     "./error.vue",
+    "./node_modules/@takasqr/**/*.{vue,js,ts,jsx,tsx}",
   ],
   theme: {
     extend: {},

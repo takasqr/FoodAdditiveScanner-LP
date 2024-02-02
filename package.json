@@ -23,6 +23,6 @@
     "vue-router": "^4.2.5"
   },
   "dependencies": {
-    "@takasqr/tw-vue-ui": "^0.0.11"
+    "@takasqr/tw-vue-ui": "^0.0.16"
   }
 }
