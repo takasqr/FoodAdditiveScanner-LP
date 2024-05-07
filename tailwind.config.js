@@ -9,6 +9,7 @@ export default {
     "./error.vue",
     "./node_modules/@takasqr/**/*.{vue,js,ts,jsx,tsx}",
   ],
+  darkMode: false, // or 'media' or 'class'
   theme: {
     extend: {
       colors: {
